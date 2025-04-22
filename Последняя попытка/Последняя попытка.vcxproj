@@ -134,6 +134,7 @@
   <ItemGroup>
     <ClInclude Include="Employee.h" />
     <ClInclude Include="EmployeeManager.h" />
+    <ClInclude Include="NewHFileLastTime.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

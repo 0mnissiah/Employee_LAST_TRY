@@ -32,5 +32,8 @@
     <ClInclude Include="EmployeeManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="NewHFileLastTime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
