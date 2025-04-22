@@ -26,6 +26,8 @@ int main() {
 
     std::cout << "Привіт з myBranch!" << std::endl;
 
+    std::cout << "Привет из ДУРКИ!" << std::endl;
+
     EmployeeManager manager;
     char filename[100];
 
